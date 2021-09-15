@@ -38,13 +38,9 @@ To site είναι διαθέσιμο στο http://localhost:8001/. Την πρ
 Εκφώνηση: https://ys13.chatzi.org/assets/projects/project1.pdf
 
 
-### Μέλη ομάδας
-
-- ΑΜ, όνομα
-- ΑΜ, όνομα
 
 ### Report
 
 Συμπληρώστε εδώ __ένα report__ που
-- Να εξηγεί τι είδους αλλαγές κάνατε στον κώδικα για να προστατέψετε το site σας (από την κάθε επίθεση).
-- Να εξηγεί τι είδους επιθέσεις δοκιμάσατε στο αντίπαλο site και αν αυτές πέτυχαν.
+- [defence report](https://github.com/KostasLiako/Security_eclass/blob/master/defence-report.md)
+- [attack report](https://github.com/KostasLiako/Security_eclass/blob/master/attack-report.md)
